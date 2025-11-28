@@ -1,0 +1,19 @@
+{
+  "simulacoes": 1000,
+  "benchmark_ict": 0.35,
+  "faixas_valor_fob": [
+    [0, 500000, "LEVE"],
+    [500000, 1500000, "MÉDIO"], 
+    [1500000, 3000000, "FODA"],
+    [3000000, null, "ARROMBADO"]
+  ],
+  "output_dir": "output/",
+  "ncm_foco": ["8471", "8517", "9022"],
+  "taxas": {
+    "ii_fixo": 0.02,
+    "ipi_fixo": 0.05,
+    "pis_cofins_fixo": 0.034
+  },
+  "aliquotas_icms": [0.07, 0.12, 0.17, 0.18],
+  "ranges_cambio": [4.8, 5.8]
+}

@@ -1,6 +1,6 @@
-﻿Mês,Semana,Data,Tarefa,Status,Vídeo
-1,1,03–09/nov,Calculadora ICMS + Python Cap 4–6,NÃO_INICIADO,https://youtu.be/9wCnOaHH2sg
-1,2,10–16/nov,Monte Carlo – Risco Cambial,NÃO_INICIADO,https://youtu.be/7y1x5r4b91w
+Mês,Semana,Data,Tarefa,Status,Vídeo
+1,1,03–09/nov,Calculadora ICMS + Python Cap 4–6,CONCLUÍDO,https://youtu.be/9wCnOaHH2sg
+1,2,10–16/nov,Monte Carlo – Risco Cambial,EM_ANDAMENTO,https://youtu.be/7y1x5r4b91w
 2,1,24–30/nov,Álgebra Linear (Ilyn) + NumPy,NÃO_INICIADO,https://youtu.be/fNk_zzaMoSs
 2,2,01–07/dez,PCA em Jurisprudência,NÃO_INICIADO,https://youtu.be/FgakZw6K1QQ
 3,1,03–09/jan,Classificador de Decisões (CARF),NÃO_INICIADO,https://youtu.be/yIYKR4sgzI8
