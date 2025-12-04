@@ -1,32 +1,27 @@
-# TRIBUTEC AI  
-**IA para Direito Tributário e Comércio Internacional**  
-Edcarlos | Iniciado em 03/nov/2025  
+# 🌌 Vectus  
+### *Inteligência Tributária Orientada a Vetores*  
 
-![Progress](https://progress-bar.dev/16/?title=Mês%201)  
+> **“O futuro do Direito Tributário é preditivo — com IA.”**  
+> — Karlos Neves, Advogado Tributarista com 20+ anos de experiência
 
-## Semana 1 — CONCLUÍDA  
-- [x] Calculadora ICMS  
-- [x] Simulação de 1.000 operações  
-- [x] Gráfico por UF  
-- [x] Resultados em `data/resultados_icms.csv`  
+---
 
-![ICMS por UF](notebooks/grafico_icms.png)  
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
+[![Status](https://img.shields.io/badge/Status-Operacional-brightgreen)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Estrutura do Projeto  
-tributec-ai/
-├── data/
-│   ├── cronograma.csv      # QG do projeto
-│   └── resultados_icms.csv # 1.000 simulações
-├── notebooks/
-│   ├── 01_calculadora_icms.ipynb # Notebook principal
-│   └── grafico_icms.png    # Gráfico salvo
-└── src/                    # Código fonte (futuro)
+Plataforma que integra **álgebra linear**, **simulação estocástica** e **análise de dados** para modelar e prever comportamentos tributários com rigor técnico.
 
-> **"O futuro do Direito Tributário é preditivo — com IA.**  
-> **Karlos Neves, Advogado Tributarista com 20+ anos**
+---
 
-## Próximos Passos  
-- Semana 2: Monte Carlo + API Bacen (risco cambial)  
-- Semana 3: Álgebra Linear + PCA em jurisprudência  
+## 🔍 Funcionalidades Atuais
 
-[Veja o notebook completo](notebooks/01_calculadora_icms.ipynb)
+- ✅ **Calculadora ICMS dinâmica**  
+- ✅ **Simulação de 1.000 operações reais**  
+- ✅ **Análise por UF** (com gráfico gerado em `notebooks/grafico_icms.png`)  
+- ✅ **Top 5 empresas com maior potencial** (via `src/analise_top_empresas.py`)  
+- ✅ **Relatório interativo** em `output/analise_top_empresas.html`
+
+---
+
+## 📂 Estrutura
